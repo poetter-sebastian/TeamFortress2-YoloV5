@@ -1,0 +1,32 @@
+path: dataset  # dataset root dir
+train: images
+val: test
+test: test
+
+# Classes
+nc: 23 
+names: [
+'Medic-Blue',
+'Soldier-Blue',
+'Demoman-Blue',
+'Pyro-Blue',
+'Scout-Blue',
+'Hearvy-Blue',
+'Engineer-Blue',
+'Sniper-Blue',
+'Spy-Blue',
+'Medic-Red',
+'Soldier-Red',
+'Demoman-Red',
+'Pyro-Red',
+'Scout-Red',
+'Centry-Red',
+'Dispencer-Red',
+'Engineer-Red',
+'Hearvy-Red',
+'Sniper-Red',
+'Centry-Blue',
+'Spy-Red',
+'Teleporter-Red',
+'Dispencer-Blue'
+]
